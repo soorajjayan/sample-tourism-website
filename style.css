@@ -697,3 +697,8 @@ html, body {
 body {
   position: relative
 }
+@media (max-width:425px){
+  html, body {
+    overflow-x: hidden;
+  }
+}
