@@ -687,3 +687,13 @@ header .search-bar-container label:hover{
   }
 
 }
+
+.body{
+  width: 50%;
+}
+html, body {
+  overflow-x: hidden;
+}
+body {
+  position: relative
+}
